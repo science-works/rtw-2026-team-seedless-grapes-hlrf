@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [Chiyun-Lee/hlrf](https://github.com/Chiyun-Lee/hlrf).**
+>
+> Submitted version: [`c89392e`](https://github.com/science-works/rtw-2026-team-seedless-grapes-hlrf/tree/c89392e8b43c71d03aac226cbb695643b52b08bd). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 <p align="center"><img src="docs/images/banner.png" alt="HLRF: human learning + reinforced feedback. Team Seedless Grapes: Alex, Chiyun, Jacky, Jialin, Richard" width="760"></p>
 
 # HLRF: understand a paper in five minutes
